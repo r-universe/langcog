@@ -1,0 +1,14 @@
+[
+  {
+    "package": "childesr",
+    "oncran": true
+  },
+  {
+    "package": "tidyboot",
+    "oncran": true
+  },
+  {
+    "package": "wordbankr",
+    "oncran": true
+  }
+]
