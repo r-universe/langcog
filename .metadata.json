@@ -6,9 +6,5 @@
   {
     "package": "tidyboot",
     "oncran": true
-  },
-  {
-    "package": "wordbankr",
-    "oncran": true
   }
 ]
