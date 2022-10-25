@@ -13,8 +13,3 @@
 	url = https://github.com/langcog/tidyboot
 	shallow = true
 	registered = true
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/langcog/wordbankr
-	shallow = true
-	registered = true
