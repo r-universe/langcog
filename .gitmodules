@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tidyboot"]
-	path = tidyboot
-	url = https://github.com/langcog/tidyboot
-	shallow = true
-	registered = true
 [submodule "childesr"]
 	path = childesr
 	url = https://github.com/langcog/childesr
+	shallow = true
+	registered = true
+[submodule "tidyboot"]
+	path = tidyboot
+	url = https://github.com/langcog/tidyboot
 	shallow = true
 	registered = true

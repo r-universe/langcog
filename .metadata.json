@@ -1,10 +1,10 @@
 [
   {
-    "package": "tidyboot",
+    "package": "childesr",
     "oncran": true
   },
   {
-    "package": "childesr",
+    "package": "tidyboot",
     "oncran": true
   }
 ]
