@@ -8,3 +8,6 @@
 [submodule "tidyboot"]
 	path = tidyboot
 	url = https://github.com/langcog/tidyboot
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/langcog/wordbankr
