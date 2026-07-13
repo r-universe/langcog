@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/langcog/langcog.r-universe.dev
 	branch = HEAD
-[submodule "childesr"]
-	path = childesr
-	url = https://github.com/langcog/childesr
-[submodule "tidyboot"]
-	path = tidyboot
-	url = https://github.com/langcog/tidyboot
+[submodule "redivis"]
+	path = redivis
+	url = https://github.com/redivis/redivis-r
